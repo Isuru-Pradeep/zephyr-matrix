@@ -1,6 +1,6 @@
 # Zephyr Matrix
 
-A modern enterprise website built with Next.js 14, TypeScript, and Tailwind CSS.
+A modern enterprise website built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
 
